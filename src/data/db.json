@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "Rafael",
+      "senha": "48214213"
+    },
+    {
+      "usuario": "alunofront",
+      "senha": "48214213",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome_produtos": "Sapato preto",
+      "preco": "125"
+    },
+    {
+      "nome_produto": "Sapato feminino",
+      "preco": "135\n",
+      "id": 2
+    },
+    {
+      "nome_produto": "Sapato feminino",
+      "preco": "190.0",
+      "id": 3
+    }
+  ]
+}
